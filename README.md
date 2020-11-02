@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Github Status](https://github-readme-stats.vercel.app/api?username=Sanket292001&show_icons=true&title_color=FBFF00&icon_color=21C500&text_color=FFFC4A&bg_color=000)](https://github.com/Sanket292001)
 
 <!--
 **Sanket292001/Sanket292001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
