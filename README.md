@@ -6,8 +6,6 @@
 <img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/coding_person.gif" width="450"></img>
 </div>
 
-<div style="font-size: 1.4em;">
-
 - 👨‍💼 Intern at [Seagate Technology](https://www.seagate.com/in/en/)
 - 📄 Bachelor of Technology (B.Tech) in Computer Engineering from Vishwakarma Institute of Information Technolgy, Pune
 - 💻 Experience in
@@ -17,5 +15,3 @@
   - Cloud Computing
   - DevOps
 - 🗺️ Located at Pune, Maharashtra, India
-
-</div>
