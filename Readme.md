@@ -130,10 +130,6 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for visiting! I hope you learnt something new ! Have a nice day! :wink: <br/>
+  :heart_eyes: Thanks for visiting! Hope you are doing well! Have a nice day! :wink: <br/>
   &copy; 2022 Sanket Salunke #Sanket292001
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/thank_you_animation.gif" width="450"></img>
 </div>
