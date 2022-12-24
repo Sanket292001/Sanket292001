@@ -43,7 +43,7 @@
 ## 🐍&nbsp;Contributions Snake
 
 <div align="center">
-  <img height="180em" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"></img>
+  <img height="180em" src="https://github.com/sanket292001/sanket292001/blob/output/github-contribution-grid-snake.svg"></img>
 </div>
 
 <br />
