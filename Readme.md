@@ -33,7 +33,7 @@
 
 <div>
 
-Web Development
+**Web Development**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="65" height="65"/>
@@ -42,7 +42,7 @@ Web Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="65" height="65"/>
 </p>
 
-Programming Languages
+**Programming Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="mysql" width="65" height="65"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="mongodb" width="65" height="65"/>
@@ -53,7 +53,7 @@ Programming Languages
 </p>
 
 
-Database
+**Database**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="65" height="65"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="65" height="65"/>
@@ -61,13 +61,13 @@ Database
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt="firebase" width="65" height="65"/>
 </p>
 
-Designing
+**Designing**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="mysql" width="65" height="65"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="mongodb" width="65" height="65"/>
 </p>
 
-Backend
+**Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="mysql" width="65" height="65"/>  
 </p>
