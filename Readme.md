@@ -93,3 +93,43 @@
 </p>
     
 </div>
+
+<!-- Contact Me -->
+## <p align="center" style="font-size:2em;display:flex; align-items:center; justify-content:center;"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50" width="100" style="margin-right:8px"></img> For More Information, Please Check Out or Connect Me Via</p>
+
+<p align="center">
+
+  <a href="mailto:salunkess2001@gmail.com" target="_blank">
+    <img align="center" alt="Sanket Salunke | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/sanket292001" target="_blank">
+    <img align="center" alt="Sanket Salunke | Linkedin" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://twitter.com/Sanket292001" target="_blank">
+    <img align="center" alt="Sanket Salunke | Twitter" width="24px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/sanket292001" target="_blank">
+    <img align="center" alt="Sanket Salunke | GitHub" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.codechef.com/users/sanket292001" target="_blank">
+    <img align="center" alt="Sanket Salunke | Codechef" width="70px" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" />
+  </a> &nbsp;&nbsp;
+
+<a href="https://leetcode.com/salunkess2001" target="_blank">
+    <img align="center" alt="Sanket Salunke | LeetCode" width="24px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/Sanket292001" target="_blank">
+    <img align="center" alt="Sanket Salunke | Hackerrank" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843" />
+  </a> &nbsp;&nbsp;
+
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for visiting! I hope you learnt something new ! Have a nice day! :wink: <br/>
+  &copy; 2022 Sanket Salunke #Sanket292001
+</div>
