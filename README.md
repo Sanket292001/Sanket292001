@@ -6,12 +6,21 @@
 <img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/coding_person.gif" width="450"></img>
 </div>
 
+<div>
+  
 - 👨‍💼 Intern at [Seagate Technology](https://www.seagate.com/in/en/)
 - 📄 Bachelor of Technology (B.Tech) in Computer Engineering from Vishwakarma Institute of Information Technolgy, Pune
+- 🗺️ Located at Pune, Maharashtra, India
+- 🔭 I’m currently working on Python programming
+- 🌱 I’m currently learning backend development in Springboot
 - 💻 Experience in
   - Web Application Development
   - Backend Developement
   - SQL/NoSQL Databases
   - Cloud Computing
   - DevOps
-- 🗺️ Located at Pune, Maharashtra, India
+- ❤️ I love to learn new things and develop application in various languages
+
+</div>
+
+<!--  -->
