@@ -73,3 +73,15 @@
 </p>
     
 </div>
+
+<br />
+
+<!-- Stats -->
+## 📈 My Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanket292001&count_private=true"></img>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket292001&layout=compact"></img>
+
+</div>
