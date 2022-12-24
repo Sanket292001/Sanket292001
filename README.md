@@ -1,9 +1,21 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Sanket292001?style=social" /> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Sanket292001?style=social" /> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=Sanket292001)
+<!-- Title Section -->
+# <p align="center" style="font-size:2em;display:flex; align-items:center; justify-content:center; margin-top:8px"> <img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/wave.gif" height="50" width="50" style="margin-right:8px"></img> Hello, I’m&nbsp; <a href="https://github.com/sanket292001">Sanket Salunke</a></p>
 
-
+<!-- Profile -->
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sanket292001&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket292001&count_private=true&show_icons=true&bg_color=0d1117&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/coding_person.gif" width="450"></img>
 </div>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket292001&layout=compact&show_icon=true" alt="Sanket292001-langs"/>
+
+<div style="font-size: 1.4em;">
+
+- 👨‍💼 Intern at [Seagate Technology](https://www.seagate.com/in/en/)
+- 📄 Bachelor of Technology (B.Tech) in Computer Engineering from Vishwakarma Institute of Information Technolgy, Pune
+- 💻 Experience in
+  - Web Application Development
+  - Backend Developement
+  - SQL/NoSQL Databases
+  - Cloud Computing
+  - DevOps
+- 🗺️ Located at Pune, Maharashtra, India
+
+</div>
