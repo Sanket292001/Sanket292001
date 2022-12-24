@@ -27,9 +27,29 @@
 
 <br />
 
-<!-- Tech Stack -->
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned
+<!-- Stats -->
+## 📈 My Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanket292001&count_private=true"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket292001&layout=compact"></img>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sanket292001"></img>
+</div>
+
+<br />
+
+<!-- Contribitions Snake -->
+## 🐍&nbsp;Contributions Snake
+
+<div align="center">
+  <img height="180em" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"></img>
+</div>
+
+<br />
+
+<!-- Tech Stack -->
+## 🚀&nbsp;Some Tools I Have Used and Learned
 
 <div>
 
@@ -72,16 +92,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="mysql" width="65" height="65"/>  
 </p>
     
-</div>
-
-<br />
-
-<!-- Stats -->
-## 📈 My Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanket292001&count_private=true"></img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket292001&layout=compact"></img>
-
 </div>
