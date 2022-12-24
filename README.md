@@ -6,6 +6,8 @@
 <img src="https://raw.githubusercontent.com/sanket292001/sanket292001/main/gif/coding_person.gif" width="450"></img>
 </div>
 
+<!-- About Me -->
+## 👨🏻‍💻 About Me
 <div>
   
 - 👨‍💼 Intern at [Seagate Technology](https://www.seagate.com/in/en/)
@@ -23,4 +25,18 @@
 
 </div>
 
-<!--  -->
+<br />
+
+<!-- Tech Stack -->
+
+## 🚀 &nbsp;Some Tools I Have Used and Learned
+
+Web Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
+</p>
