@@ -10,7 +10,7 @@
 ## 👨🏻‍💻 About Me
 <div>
   
-- 👨‍💼 Intern at [Seagate Technology](https://www.seagate.com/in/en/)
+- 👨‍💼 Engineer I [Seagate Technology](https://www.seagate.com/in/en/)
 - 📄 Bachelor of Technology (B.Tech) in Computer Engineering from Vishwakarma Institute of Information Technolgy, Pune
 - 🗺️ Located at Pune, Maharashtra, India
 - 🔭 I’m currently working on Python programming
